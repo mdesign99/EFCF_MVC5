@@ -1,0 +1,1520 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "513",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "CONFNAME ( \"International Conference on Games and Learning Alliance, GALA\" )",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=CONFNAME+%28+%22International+Conference+on+Games+and+Learning+Alliance%2C+GALA%22+%29&apiKey=1c79f77271a7b607a75167dd77c1eb9b",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=CONFNAME+%28+%22International+Conference+on+Games+and+Learning+Alliance%2C+GALA%22+%29&apiKey=1c79f77271a7b607a75167dd77c1eb9b",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=CONFNAME+%28+%22International+Conference+on+Games+and+Learning+Alliance%2C+GALA%22+%29&apiKey=1c79f77271a7b607a75167dd77c1eb9b",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=488&count=25&query=CONFNAME+%28+%22International+Conference+on+Games+and+Learning+Alliance%2C+GALA%22+%29&apiKey=1c79f77271a7b607a75167dd77c1eb9b",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214143188"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214143188?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214143188&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214143188&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214143188",
+        "dc:identifier": "SCOPUS_ID:85214143188",
+        "eid": "2-s2.0-85214143188",
+        "dc:title": "“Deception Detected!”—A Serious Game About Detecting Dark Patterns",
+        "dc:creator": "Fiedler K.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "191-200",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_18",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Rheinisch-Westfälische Technische Hochschule Aachen",
+            "affiliation-city": "Aachen",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214142572"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214142572?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214142572&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214142572&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214142572",
+        "dc:identifier": "SCOPUS_ID:85214142572",
+        "eid": "2-s2.0-85214142572",
+        "dc:title": "Development of a Simulation to Aid Navigation in First Year CS Students",
+        "dc:creator": "Woods C.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "243-252",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_23",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Queen's University Belfast",
+            "affiliation-city": "Belfast",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214142419"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214142419?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214142419&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214142419&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214142419",
+        "dc:identifier": "SCOPUS_ID:85214142419",
+        "eid": "2-s2.0-85214142419",
+        "dc:title": "Establishing a New Computational Method to Predict Effects of Gaming: A Feasibility Study on Growth Mindset",
+        "dc:creator": "Ninaus M.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "81-91",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_8",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universität Graz",
+            "affiliation-city": "Graz",
+            "affiliation-country": "Austria"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Eberhard Karls Universität Tübingen",
+            "affiliation-city": "Tubingen",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214141501"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214141501?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214141501&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214141501&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214141501",
+        "dc:identifier": "SCOPUS_ID:85214141501",
+        "eid": "2-s2.0-85214141501",
+        "dc:title": "Involving Teachers in Gamified Learning Activities Using Generative Artificial Intelligence Tools",
+        "dc:creator": "Fissore C.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "36-46",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_4",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Università degli Studi di Torino",
+            "affiliation-city": "Turin",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214141092"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214141092?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214141092&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214141092&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214141092",
+        "dc:identifier": "SCOPUS_ID:85214141092",
+        "eid": "2-s2.0-85214141092",
+        "dc:title": "Serious Games as Emerging E-Health Interventions: Design of an Exergame for the SMILER Project",
+        "dc:creator": "Augello A.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "307-316",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_29",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Consiglio Nazionale delle Ricerche",
+            "affiliation-city": "Rome",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214139462"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214139462?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214139462&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214139462&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214139462",
+        "dc:identifier": "SCOPUS_ID:85214139462",
+        "eid": "2-s2.0-85214139462",
+        "dc:title": "Cipher in Classrooms: Evaluating Digital Game-Based Language Learning for Irish Vocabulary Acquisition",
+        "dc:creator": "Xu L.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "25-35",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_3",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Dublin City University",
+            "affiliation-city": "Dublin",
+            "affiliation-country": "Ireland"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214138810"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214138810?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214138810&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214138810&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214138810",
+        "dc:identifier": "SCOPUS_ID:85214138810",
+        "eid": "2-s2.0-85214138810",
+        "dc:title": "Adding Chance to a Serious Game’s Mechanics to Encourage Action in Uncertain Situations",
+        "dc:creator": "Bitter J.L.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "123-132",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_12",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Hochschule RheinMain",
+            "affiliation-city": "Wiesbaden",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214138076"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214138076?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214138076&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214138076&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214138076",
+        "dc:identifier": "SCOPUS_ID:85214138076",
+        "eid": "2-s2.0-85214138076",
+        "dc:title": "Use of Game Design and Game Elements in Serious Project Management Games",
+        "dc:creator": "Wang A.I.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "222-232",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_21",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Norges Teknisk-Naturvitenskapelige Universitet",
+            "affiliation-city": "Trondheim",
+            "affiliation-country": "Norway"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214136326"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214136326?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214136326&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214136326&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214136326",
+        "dc:identifier": "SCOPUS_ID:85214136326",
+        "eid": "2-s2.0-85214136326",
+        "dc:title": "Historical Tabletop Role-Playing Games: Integrating Historical and Cultural Content into the Character Creation Process",
+        "dc:creator": "Kyrgiafini S.D.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "361-367",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_36",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Department of Audio and Visual Arts, Ionian University",
+            "affiliation-city": "Corfu",
+            "affiliation-country": "Greece"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214134660"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214134660?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214134660&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214134660&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214134660",
+        "dc:identifier": "SCOPUS_ID:85214134660",
+        "eid": "2-s2.0-85214134660",
+        "dc:title": "On the Design of Gamified Learning Analytics for Immersive Virtual Reality Games",
+        "dc:creator": "Papamitsiou Z.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "112-122",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_11",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "SINTEF Digital",
+            "affiliation-city": "Trondheim",
+            "affiliation-country": "Norway"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214131382"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214131382?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214131382&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214131382&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214131382",
+        "dc:identifier": "SCOPUS_ID:85214131382",
+        "eid": "2-s2.0-85214131382",
+        "dc:title": "Design and Pilot Evaluation of an RPG Game for Self-assessment of Informatics and Economics Knowledge in Secondary Education",
+        "dc:creator": "Tataris T.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "57-67",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_6",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Macedonia",
+            "affiliation-city": "Thessaloniki",
+            "affiliation-country": "Greece"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214130071"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214130071?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214130071&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214130071&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214130071",
+        "dc:identifier": "SCOPUS_ID:85214130071",
+        "eid": "2-s2.0-85214130071",
+        "dc:title": "Games as a Non-pharmacology Therapy for Chronic Pain – A Mixed Method Pilot Study in Older People",
+        "dc:creator": "Rosa M.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "297-306",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_28",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Center for Innovative Care and Health Technology (ciTechCare)",
+            "affiliation-city": "Leiria",
+            "affiliation-country": "Portugal"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214129383"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214129383?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214129383&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214129383&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214129383",
+        "dc:identifier": "SCOPUS_ID:85214129383",
+        "eid": "2-s2.0-85214129383",
+        "dc:title": "Envisioning Futures Through play – Embodiment Techniques for Futures Thinking in Business Contexts",
+        "dc:creator": "Celik P.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "265-274",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_25",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Hochschule für Technik und Wirtschaft Berlin",
+            "affiliation-city": "Berlin",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214128340"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214128340?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214128340&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214128340&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214128340",
+        "dc:identifier": "SCOPUS_ID:85214128340",
+        "eid": "2-s2.0-85214128340",
+        "dc:title": "Evaluation of Escapade: An Engaging, Collaborative Multi-role Learning Game on History",
+        "dc:creator": "Wang A.I.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "401-406",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_42",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Norges Teknisk-Naturvitenskapelige Universitet",
+            "affiliation-city": "Trondheim",
+            "affiliation-country": "Norway"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214125797"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214125797?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214125797&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214125797&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214125797",
+        "dc:identifier": "SCOPUS_ID:85214125797",
+        "eid": "2-s2.0-85214125797",
+        "dc:title": "Gamification and Artificial Intelligence in the Educational Context: Analysis of Scientific Literature",
+        "dc:creator": "Torres-Toukoumidis A.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "349-354",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_34",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universidad Politécnica Salesiana, Cuenca",
+            "affiliation-city": "Cuenca",
+            "affiliation-country": "Ecuador"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214124501"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214124501?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214124501&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214124501&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214124501",
+        "dc:identifier": "SCOPUS_ID:85214124501",
+        "eid": "2-s2.0-85214124501",
+        "dc:title": "Design and Evaluation of a Serious Game on Household Sustainability",
+        "dc:creator": "Sau J.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "145-155",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_14",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Andorra",
+            "affiliation-city": "Sant Julia de Loria",
+            "affiliation-country": "Andorra"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214124367"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214124367?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214124367&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214124367&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214124367",
+        "dc:identifier": "SCOPUS_ID:85214124367",
+        "eid": "2-s2.0-85214124367",
+        "dc:title": "Making Games to Make Futures: Playfully Co-designing Games for Civic Learning and Thinking About Futures",
+        "dc:creator": "Meshcheryakova A.O.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "255-264",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_24",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Bergische Universität Wuppertal",
+            "affiliation-city": "Wuppertal",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214123045"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214123045?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214123045&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214123045&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214123045",
+        "dc:identifier": "SCOPUS_ID:85214123045",
+        "eid": "2-s2.0-85214123045",
+        "dc:title": "HeartGuard VR: Immersive Romance Scam Education",
+        "dc:creator": "Lea O.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "201-211",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_19",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Abertay University",
+            "affiliation-city": "Dundee",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214122907"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214122907?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214122907&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214122907&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214122907",
+        "dc:identifier": "SCOPUS_ID:85214122907",
+        "eid": "2-s2.0-85214122907",
+        "dc:title": "Graveler - Global Awareness Education Through Virtual Voyages",
+        "dc:creator": "Körner K.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "156-166",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_15",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Eberhard Karls Universität Tübingen",
+            "affiliation-city": "Tubingen",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214120928"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214120928?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214120928&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214120928&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214120928",
+        "dc:identifier": "SCOPUS_ID:85214120928",
+        "eid": "2-s2.0-85214120928",
+        "dc:title": "A Growing Community of Practice on Games and Learning: A Literature Review with Bibliometric and Thematic Analyses",
+        "dc:creator": "Risley K.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "3-13",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_1",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Southampton",
+            "affiliation-city": "Southampton",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214120579"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214120579?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214120579&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214120579&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214120579",
+        "dc:identifier": "SCOPUS_ID:85214120579",
+        "eid": "2-s2.0-85214120579",
+        "dc:title": "uFood: Concept for a Serious Moral Game on Social-Media Marketing",
+        "dc:creator": "Katsarov J.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "355-360",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_35",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Leuphana Universität Lüneburg",
+            "affiliation-city": "Luneburg",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214120116"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214120116?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214120116&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214120116&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214120116",
+        "dc:identifier": "SCOPUS_ID:85214120116",
+        "eid": "2-s2.0-85214120116",
+        "dc:title": "Experiencing Forced Migration: A Participatory Approach to Developing a Serious Video Game",
+        "dc:creator": "Harshina K.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "388-393",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_40",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universität Klagenfurt",
+            "affiliation-city": "Klagenfurt",
+            "affiliation-country": "Austria"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214119507"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214119507?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214119507&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214119507&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214119507",
+        "dc:identifier": "SCOPUS_ID:85214119507",
+        "eid": "2-s2.0-85214119507",
+        "dc:title": "Preface",
+        "dc:creator": "Schönbohm A.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "v-vi",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Hochschule für Wirtschaft und Recht Berlin",
+            "affiliation-city": "Berlin",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214117760"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214117760?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214117760&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214117760&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214117760",
+        "dc:identifier": "SCOPUS_ID:85214117760",
+        "eid": "2-s2.0-85214117760",
+        "dc:title": "AI-Awareness: Fostering Teachers’ Awareness of Artificial Intelligence Through a Board Game",
+        "dc:creator": "Re A.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "421-426",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_45",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Consiglio Nazionale delle Ricerche",
+            "affiliation-city": "Rome",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214117130"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85214117130?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214117130&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85214117130&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85214117130",
+        "dc:identifier": "SCOPUS_ID:85214117130",
+        "eid": "2-s2.0-85214117130",
+        "dc:title": "Promoting Cognitive and Psychosocial Rehabilitation with a Co-Designed Multiplayer Serious Game",
+        "dc:creator": "Figueira C.",
+        "prism:publicationName": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031782688]"
+          }
+        ],
+        "prism:volume": "15348 LNCS",
+        "prism:pageRange": "407-413",
+        "prism:coverDate": "2025-01-01",
+        "prism:coverDisplayDate": "2025",
+        "prism:doi": "10.1007/978-3-031-78269-5_43",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universidade do Porto",
+            "affiliation-city": "Porto",
+            "affiliation-country": "Portugal"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      }
+    ]
+  }
+}
